@@ -1,20 +1,20 @@
 # DeltaSoul
-the source code of my fan game of deltarune, DeltaSoul.
-
+The source code of my fan game based on Deltarune, DeltaSoul.
 
 ## License and Copyright
+This is a non-profit, non-commercial fan project. It is not affiliated with,
+endorsed by, or sponsored by Toby Fox or Deltarune's development team.
 
-This is a non-profit fan project (Fan Game).
+* **Source Code:** All code written by me is licensed under the **MIT License**
+  (feel free to use and modify it).
+* **Assets:** Original visual and audio assets from Deltarune are **NOT** included
+  in this repository, as they belong to Toby Fox and his team. This repository
+  contains source code only.
+* **Intellectual Property:** All rights to the original Deltarune franchise,
+  its characters, music, and assets belong to Toby Fox and his team.
 
-* **Source Code:** All code developed by me is licensed under the **MIT License** (feel free to use and modify it).
-* **Assets:** Visual and audio assets belong to third parties and were used with express permission for **NON-COMMERCIAL** use. They are **NOT** covered by the MIT License and cannot be used to generate profit.
-* **Intellectual Property:** All rights to the original franchise belong to toby fox and his team.
-
-
-## Email contact
-if you want my contact this is it
+## Contact
 voidnoobkkk@gmail.com
 
-
 ## The game
-the game is this: [DeltaSoul](https://gamejolt.com/games/deltasoul/1090426)
+[DeltaSoul on GameJolt](https://gamejolt.com/games/deltasoul/1090426)
