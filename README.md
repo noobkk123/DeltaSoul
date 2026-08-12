@@ -17,4 +17,4 @@ voidnoobkkk@gmail.com
 
 
 ## The game
-the game is this: https://gamejolt.com/games/deltasoul/1090426
+the game is this: [DeltaSoul](https://gamejolt.com/games/deltasoul/1090426)
