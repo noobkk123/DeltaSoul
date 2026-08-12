@@ -1,5 +1,5 @@
 # DeltaSoul
-the source code of my game, DeltaSoul.
+the source code of my fan game of deltarune, DeltaSoul.
 
 
 ## ⚖️ License and Copyright
