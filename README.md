@@ -14,3 +14,7 @@ This is a non-profit fan project (Fan Game).
 ## Email contact
 if you want my contact this is it
 voidnoobkkk@gmail.com
+
+
+## The game
+the game is this: https://gamejolt.com/games/deltasoul/1090426
